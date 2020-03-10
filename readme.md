@@ -1,4 +1,4 @@
-# Ejercicio PHP - PDO con trasacciones
+# Ejercicio PHP - PDO con transacciones
 
 ### Instrucciones
 1.- Correr migracion 0
